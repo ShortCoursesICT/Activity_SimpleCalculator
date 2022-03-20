@@ -1,4 +1,4 @@
-name: Variables and Constants
+name: Simple Calculator
 
 on:
   push:
